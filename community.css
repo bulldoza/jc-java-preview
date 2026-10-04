@@ -1,0 +1,6 @@
+.community{max-width:1260px;margin:auto;padding:48px 38px;display:flex;align-items:center;justify-content:space-between;gap:40px;border-bottom:1px solid var(--line)}
+.community h2{font-size:30px;margin-bottom:12px}
+.community p{color:var(--muted);font-size:15px;margin:0}
+.community a{flex-shrink:0;padding:22px 26px;background:var(--deep);border-radius:6px}
+.community img{width:260px;height:auto;object-fit:contain}
+@media(max-width:650px){.community{padding:38px 24px;flex-direction:column;align-items:flex-start;gap:18px}.community h2{font-size:28px}.community a{padding:20px}.community img{width:230px}}
