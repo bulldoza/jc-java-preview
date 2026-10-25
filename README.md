@@ -6,6 +6,6 @@ Static HTML, CSS, and JavaScript. Original logo and images are stored locally; n
 
 The optional Pitt Community College section sits directly above the footer. Its logo comes from pittcc.edu; the service relationship was supplied by the client. Remove the `community` section and `community.css` stylesheet link to omit it.
 
-The event planner prepares text to copy into the existing JC Java contact form. It does not send inquiries, collect payments, or confirm availability. Phone links call 252-350-0696. No backend is connected.
+The event planner prepares text to copy into the existing JC Java contact form. It does not send inquiries, collect payments, or confirm availability. Phone links call 252-227-9448. No backend is connected.
 
 Before launch, the business owner should reconfirm published package prices, service terms, and the Bulldog Brew contribution. See DESIGN.md for the design process and sources. Existing live website has not been modified.
